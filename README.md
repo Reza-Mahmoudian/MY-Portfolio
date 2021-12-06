@@ -2,7 +2,7 @@
 # My Portfolio
 
 ## Link to Application
-Click on link to see the deployed website [https://reza-mahmoudian.github.io/Code-Quiz/](https://reza-mahmoudian.github.io/Code-Quiz/)
+Click on link to see the deployed website [https://reza-mahmoudian.github.io/My-Portfolio/](https://reza-mahmoudian.github.io/My-Portfolio/)
 
 ## Description
 This is my protfolio.
